@@ -1,4 +1,8 @@
 {
+  "name": "boilerplate-nextjs-13",
+  "version": "1.0.0",
+  "description": "Boilerplate NextJS 13",
+  "main": "/pages/index.tsx",
   "scripts": {
     "dev": "next",
     "build": "next build"
